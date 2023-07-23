@@ -1,5 +1,6 @@
 body{
 	margin:0;
+	padding:0;
 }
 li{
 	display:inline;
@@ -12,12 +13,65 @@ img{
 		width:100px;
          height:30px;
 }
+#divMae{
+	width:100%;
+	height:100%;
+}
 #divGeral{
 	margin:0;
 	padding:0;
 	width:100%;
-	height:250px;
+	height:300px;
 }
 #butao{
 	background-color:white;
+}
+#SpringFaz{
+	background-color:black;
+	height:500px;
+	align-items:center;
+}
+#titulo1{
+	display:inline;
+	
+}
+
+#Micro{
+	width:250px;
+	height:210px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: gray;
+
+}
+#Micro1{
+	width:250px;
+	height:210px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: gray;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+#Micro:hover{
+	border-color:white;
+	color:white;
+}
+#Micro1:hover{
+	border-color:white;
+	color:white;
+}
+#divService{
+	justify-content:center;
+}
+i{
+	color:gray;
+}
+.tabela{
+	width:75%;
+	margin-left:100px;
+}
+#divDev{
+	height:270px;
 }

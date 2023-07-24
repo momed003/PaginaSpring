@@ -92,6 +92,9 @@ i{
 #me{
 	width:1500;
 }
-#divService{
-	
+footer{
+	background-color:#00FF40;
+	bottom:0;
+	width:100%;
+	height:1.5rem;
 }
